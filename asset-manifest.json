@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactPortfolio/static/css/main.e2aa9fc6.chunk.css",
+    "main.js": "/reactPortfolio/static/js/main.2c970c28.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.2c970c28.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.506f4783.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.506f4783.js.map",
+    "static/js/2.e2294a60.chunk.js": "/reactPortfolio/static/js/2.e2294a60.chunk.js",
+    "static/js/2.e2294a60.chunk.js.map": "/reactPortfolio/static/js/2.e2294a60.chunk.js.map",
+    "index.html": "/reactPortfolio/index.html",
+    "precache-manifest.482e9b8137e88c58b65e95bb4d0f4b88.js": "/reactPortfolio/precache-manifest.482e9b8137e88c58b65e95bb4d0f4b88.js",
+    "service-worker.js": "/reactPortfolio/service-worker.js",
+    "static/css/main.e2aa9fc6.chunk.css.map": "/reactPortfolio/static/css/main.e2aa9fc6.chunk.css.map",
+    "static/js/2.e2294a60.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.e2294a60.chunk.js.LICENSE.txt",
+    "static/media/Fun.png": "/reactPortfolio/static/media/Fun.492a92b5.png",
+    "static/media/LinkedInPhoto.png": "/reactPortfolio/static/media/LinkedInPhoto.8deb5a1e.png",
+    "static/media/PBud.png": "/reactPortfolio/static/media/PBud.9ea11386.png",
+    "static/media/StreamOn.png": "/reactPortfolio/static/media/StreamOn.534771bd.png",
+    "static/media/codingBrandonLopezResume.pdf": "/reactPortfolio/static/media/codingBrandonLopezResume.bf3f7786.pdf",
+    "static/media/dayPlannerDesktopView.jpg": "/reactPortfolio/static/media/dayPlannerDesktopView.c48db6e3.jpg",
+    "static/media/empTracker.png": "/reactPortfolio/static/media/empTracker.ae767355.png",
+    "static/media/weatherDashboard.jpg": "/reactPortfolio/static/media/weatherDashboard.48ea0427.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.506f4783.js",
+    "static/js/2.e2294a60.chunk.js",
+    "static/css/main.e2aa9fc6.chunk.css",
+    "static/js/main.2c970c28.chunk.js"
+  ]
+}
