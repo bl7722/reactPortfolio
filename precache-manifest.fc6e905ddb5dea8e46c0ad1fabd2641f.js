@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60eedb43f625021c154fa1dac482a054",
+    "revision": "3ad911ae82f83f6d16d634cb959363ed",
     "url": "/reactPortfolio/index.html"
   },
   {
-    "revision": "ea9876e70d79ef7b4fe8",
-    "url": "/reactPortfolio/static/css/main.e2aa9fc6.chunk.css"
+    "revision": "f4a30e7e36647cc84175",
+    "url": "/reactPortfolio/static/css/main.d3486bce.chunk.css"
   },
   {
-    "revision": "7ca4eadf20e8b5929ac8",
-    "url": "/reactPortfolio/static/js/2.e2294a60.chunk.js"
+    "revision": "ba88cf47ed47e9b2c58e",
+    "url": "/reactPortfolio/static/js/2.bba64fcc.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/reactPortfolio/static/js/2.e2294a60.chunk.js.LICENSE.txt"
+    "url": "/reactPortfolio/static/js/2.bba64fcc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ea9876e70d79ef7b4fe8",
-    "url": "/reactPortfolio/static/js/main.2c970c28.chunk.js"
+    "revision": "f4a30e7e36647cc84175",
+    "url": "/reactPortfolio/static/js/main.c5faa328.chunk.js"
   },
   {
     "revision": "2f4d685e618f546a2f8a",
     "url": "/reactPortfolio/static/js/runtime-main.506f4783.js"
+  },
+  {
+    "revision": "09f4b5caf9501a51613e18da8cadf4e5",
+    "url": "/reactPortfolio/static/media/Brandon Lopez_July2020.09f4b5ca.pdf"
   },
   {
     "revision": "492a92b5647cb45a9769fbea76352b06",
@@ -38,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "534771bdcd99950077045c1a10f135b6",
     "url": "/reactPortfolio/static/media/StreamOn.534771bd.png"
-  },
-  {
-    "revision": "bf3f77868dfa9bdd9f4ff7afa5ba8281",
-    "url": "/reactPortfolio/static/media/codingBrandonLopezResume.bf3f7786.pdf"
   },
   {
     "revision": "c48db6e35466b4eacd41aa3b8f506808",
